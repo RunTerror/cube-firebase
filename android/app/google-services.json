@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1034440254821",
+    "firebase_url": "https://cubeassesment-cdc59-default-rtdb.firebaseio.com",
+    "project_id": "cubeassesment-cdc59",
+    "storage_bucket": "cubeassesment-cdc59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034440254821:android:cd9fe0ce45e56c44d0ad8c",
+        "android_client_info": {
+          "package_name": "com.example.cubeassesment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvqEZn1vaHmYbGF6bQRM0qICIKqN-w5bI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
